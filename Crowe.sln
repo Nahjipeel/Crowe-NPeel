@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crowe.API", "Crowe\Crowe.API.csproj", "{29F6EB30-86AF-4C58-91C9-033D9EF785F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crowe.API", "Crowe.API\Crowe.API.csproj", "{29F6EB30-86AF-4C58-91C9-033D9EF785F9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crowe.Tests", "Crowe.Tests\Crowe.Tests.csproj", "{CEF6A44C-88A2-4F86-8913-470C0D761D78}"
 EndProject
